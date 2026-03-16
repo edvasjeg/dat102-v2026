@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dat102-v2026.iml" filepath="$PROJECT_DIR$/.idea/dat102-v2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f01-figurer-ordnetpar-losning/f01-figurer-ordnetpar-losning.iml" filepath="$PROJECT_DIR$/f01-figurer-ordnetpar-losning/f01-figurer-ordnetpar-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f02-comparable-tabellbag-fyllinn/f02-comparable-tabellbag-fyllinn.iml" filepath="$PROJECT_DIR$/f02-comparable-tabellbag-fyllinn/f02-comparable-tabellbag-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f02-comparable-tabellbag-losning/f02-comparable-tabellbag-losning.iml" filepath="$PROJECT_DIR$/f02-comparable-tabellbag-losning/f02-comparable-tabellbag-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f03-node-nodelenke-fyllinn/f03-node-nodelenke-fyllinn.iml" filepath="$PROJECT_DIR$/f03-node-nodelenke-fyllinn/f03-node-nodelenke-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f03-node-nodelenke-resultat/f03-node-nodelenke-resultat.iml" filepath="$PROJECT_DIR$/f03-node-nodelenke-resultat/f03-node-nodelenke-resultat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f04-lenketbag-analyse-fyllinn/f04-lenketbag-analyse-fyllinn.iml" filepath="$PROJECT_DIR$/f04-lenketbag-analyse-fyllinn/f04-lenketbag-analyse-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f04-lenketbag-analyse-losning/f04-lenketbag-analyse-losning.iml" filepath="$PROJECT_DIR$/f04-lenketbag-analyse-losning/f04-lenketbag-analyse-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f05-stabel-fyllinn/f05-stabel-fyllinn.iml" filepath="$PROJECT_DIR$/f05-stabel-fyllinn/f05-stabel-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f05-stabel-losning/f05-stabel-losning.iml" filepath="$PROJECT_DIR$/f05-stabel-losning/f05-stabel-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f06-rekursjon1-fyllinn/f06-rekursjon1-fyllinn.iml" filepath="$PROJECT_DIR$/f06-rekursjon1-fyllinn/f06-rekursjon1-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f06-rekursjon1-losning/f06-rekursjon1-losning.iml" filepath="$PROJECT_DIR$/f06-rekursjon1-losning/f06-rekursjon1-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f07-rekursjon2-fyllinn/f07-rekursjon2-fyllinn.iml" filepath="$PROJECT_DIR$/f07-rekursjon2-fyllinn/f07-rekursjon2-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f07-rekursjon2-losning/f07-rekursjon2-losning.iml" filepath="$PROJECT_DIR$/f07-rekursjon2-losning/f07-rekursjon2-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f11-junit5-queue-fyllinn/f11-junit5-queue-fyllinn.iml" filepath="$PROJECT_DIR$/f11-junit5-queue-fyllinn/f11-junit5-queue-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f11-junit5-queue-losning/f11-junit5-queue-losning.iml" filepath="$PROJECT_DIR$/f11-junit5-queue-losning/f11-junit5-queue-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f12-sirkulaerkoe-deque-losning/f12-sirkulaerkoe-deque-losning.iml" filepath="$PROJECT_DIR$/f12-sirkulaerkoe-deque-losning/f12-sirkulaerkoe-deque-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f13-liste-tabelliste-losning/f13-liste-tabelliste-losning.iml" filepath="$PROJECT_DIR$/f13-liste-tabelliste-losning/f13-liste-tabelliste-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f14-lenketliste-iterator-fyllinn/f14-lenketliste-iterator-fyllinn.iml" filepath="$PROJECT_DIR$/f14-lenketliste-iterator-fyllinn/f14-lenketliste-iterator-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f14-lenketliste-iterator-losning/f14-lenketliste-iterator-losning.iml" filepath="$PROJECT_DIR$/f14-lenketliste-iterator-losning/f14-lenketliste-iterator-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f15-immutable-sortertliste-fyllinn/f15-immutable-sortertliste-fyllinn.iml" filepath="$PROJECT_DIR$/f15-immutable-sortertliste-fyllinn/f15-immutable-sortertliste-fyllinn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/f15-immutable-sortertliste-losning/f15-immutable-sortertliste-losning.iml" filepath="$PROJECT_DIR$/f15-immutable-sortertliste-losning/f15-immutable-sortertliste-losning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mengde-adt/mengde-adt.iml" filepath="$PROJECT_DIR$/mengde-adt/mengde-adt.iml" />
+    </modules>
+  </component>
+</project>
